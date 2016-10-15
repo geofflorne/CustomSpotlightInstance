@@ -22,3 +22,6 @@ client_id.json
 *.p12
 /jetty/*
 /config/*.yml
+
+# Ignore Byebug command history file.
+.byebug_history
